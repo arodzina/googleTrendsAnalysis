@@ -25,11 +25,11 @@ pip install pandas numpy matplotlib
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/arodzina/googleTrendsAnalysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd googleTrendsAnalysis
    ```
 3. Open the Jupyter Notebook:
    ```bash
